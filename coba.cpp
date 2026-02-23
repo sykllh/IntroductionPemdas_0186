@@ -5,4 +5,8 @@ using namespace std;
 //variabel global
 string nama;
 
+int main(){//program utama
+
+}
+
 }// selesai
