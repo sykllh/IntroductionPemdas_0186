@@ -7,7 +7,7 @@ string nama;
 
 int main(){//program utama
     int age; //variabel local
-    int age1; //variabeo local
+    int age1; //variabel local
 
 }
 
